@@ -22,12 +22,12 @@
 
 ## How to try
 
-*Please watch video about our app herehttps://youtu.be/-9Px-zBwtCc:
+*Please watch video about our app here: https://youtu.be/-9Px-zBwtCc
 Or if you have python, django and know how to run it localy you can download our ap and try it on your local maschine*
 
 ## Presentation
 
-*We present our project vith this video:https://youtu.be/-9Px-zBwtCc*
+*We present our project vith this video: https://youtu.be/-9Px-zBwtCc*
 *Feel free to pause it any time you want and take a better look*
 
 ## Challenges and accomplishments
